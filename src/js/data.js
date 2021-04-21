@@ -1,4 +1,3 @@
-/* eslint-disable no-mixed-operators */
 const cashback = {
   regular: {
     bound: 1000,
